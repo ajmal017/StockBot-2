@@ -1,5 +1,5 @@
 # StockBot [(@AryavartaBot)](https://t.me/AryavartaBot)
-A python telegram bot to fetch real time finance data of different stocks
+A python telegram bot to fetch real time finance data of various stocks and commodities
 
 ## Commands
 **/country** - gets you the list of countries the bot has the data for<br>
